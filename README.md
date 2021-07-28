@@ -1,16 +1,14 @@
-### Hi there 👋
+# About Me
+> To be written.
 
-<!--
-**itsjusttriz/itsjusttriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What languages do I know?
+- Javascript
 
-Here are some ideas to get you started:
+# Current Projects
+- [Qol Central]() (*Minecraft Modpack*)
+- [TrizAPI]() (*Miscellaneous API*)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Where to find me?
+- [Twitter](http://twitter.triz.link)
+- [Discord](http://discord.triz.link)
+- [Twitch](http://twitch.triz.link)
