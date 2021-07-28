@@ -2,11 +2,11 @@
 > To be written.
 
 # What languages do I know?
-- Javascript
+- Javascript (*Still learning*)
 
 # Current Projects
-- [Qol Central]() (*Minecraft Modpack*)
-- [TrizAPI]() (*Miscellaneous API*)
+- [Qol Central](https://www.curseforge.com/minecraft/modpacks/qol-central) (*Minecraft Modpack*)
+- [TrizAPI](https://api.triz.link/docs) (*Miscellaneous API*)
 
 # Where to find me?
 - [Twitter](http://twitter.triz.link)
