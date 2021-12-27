@@ -3,6 +3,10 @@
 
 # What languages do I know?
 - Javascript (*Still learning*)
+- Typescript (*Still Learning*)
+
+# What languages do I want to know?
+- Java
 
 # Current Projects
 - [Qol Central](https://www.curseforge.com/minecraft/modpacks/qol-central) (*Minecraft Modpack*)
