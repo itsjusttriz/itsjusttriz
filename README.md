@@ -10,7 +10,7 @@
 
 # Current Projects
 - [Qol Central](https://www.curseforge.com/minecraft/modpacks/qol-central) (*Minecraft Modpack*)
-- [TrizAPI](https://api.triz.link/docs) (*Miscellaneous API*)
+- [TrizAPI](https://dev.triz.link/notfound) (*Miscellaneous API*)
 
 # Where to find me?
 - [Twitter](http://twitter.triz.link)
