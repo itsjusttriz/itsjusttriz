@@ -1,6 +1,7 @@
 # About Me
 > 22 year old, amateur developer. No formal experience in a workplace area, but I further my knowledge in my own time on various casual projects.
-- Support me on [Ko-fi](http://kofi.triz.link)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G06VVCK)
 
 # What coding languages am I practicing?
 - Javascript (*Still learning*)
