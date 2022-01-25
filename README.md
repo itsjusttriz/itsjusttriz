@@ -1,16 +1,17 @@
 # About Me
-> To be written.
+> 22 year old, amateur developer. No formal experience in a workplace area, but I further my knowledge in my own time on various casual projects.
+- Support me on [Ko-fi](http://kofi.triz.link)
 
-# What languages do I know?
+# What coding languages am I practicing?
 - Javascript (*Still learning*)
 - Typescript (*Still Learning*)
-
-# What languages do I want to know?
-- Java
+- Java (*Complete Noob*)
 
 # Current Projects
-- [Qol Central](https://www.curseforge.com/minecraft/modpacks/qol-central) (*Minecraft Modpack*)
 - [TrizAPI](https://dev.triz.link/notfound) (*Miscellaneous API*)
+- [TrizUtils-Discord](https://dev.triz.link/notfound) (*Custom Discord chatbot*)
+- [TrizUtils-Twitch](https://dev.triz.link/notfound) (*Custom Twitch Chatbot*)
+- [Qol Central](https://www.curseforge.com/minecraft/modpacks/qol-central) (*Minecraft VanillaAddons Modpack*)
 
 # Where to find me?
 - [Twitter](http://twitter.triz.link)
