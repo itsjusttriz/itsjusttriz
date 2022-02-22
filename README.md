@@ -11,7 +11,7 @@
 # Current Projects
 - [TrizAPI](https://github.com/itsjusttriz/trizutils-api) (*Miscellaneous API*)
 - [TrizUtils-Discord](https://github.com/itsjusttriz/trizutils-discord) (*Custom Discord chatbot*)
-- [TrizUtils-Twitch](https://dev.triz.link/notfound) (*Custom Twitch Chatbot*)
+- [TrizUtils-Twitch](https://dev.triz.link/#/notfound) (*Custom Twitch Chatbot*)
 - [Qol Central](https://www.curseforge.com/minecraft/modpacks/qol-central) (*Minecraft VanillaAddons Modpack*)
 
 # Where to find me?
