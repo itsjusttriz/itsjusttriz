@@ -9,8 +9,8 @@
 - Java (*Complete Noob*)
 
 # Current Projects
-- [TrizAPI](https://dev.triz.link/notfound) (*Miscellaneous API*)
-- [TrizUtils-Discord](https://dev.triz.link/notfound) (*Custom Discord chatbot*)
+- [TrizAPI](https://github.com/itsjusttriz/trizutils-api) (*Miscellaneous API*)
+- [TrizUtils-Discord](https://github.com/itsjusttriz/trizutils-discord) (*Custom Discord chatbot*)
 - [TrizUtils-Twitch](https://dev.triz.link/notfound) (*Custom Twitch Chatbot*)
 - [Qol Central](https://www.curseforge.com/minecraft/modpacks/qol-central) (*Minecraft VanillaAddons Modpack*)
 
