@@ -9,7 +9,7 @@ Below is a list of the pokemon games I've played/completed:
 
 | Game Name              | Console  | Story? | Pokedex? | DLC? | ShinyDex? |
 | :--------------------- | -------- | ------ | -------- | ---- | --------- |
-| Pokemon Emerald        | mGBA | 🕹️||||
+| Pokemon Emerald        | mGBA _(Emulator)_ | 🕹️||||
 | Pokemon Diamond/Pearl/Platinum  | NDS|✔️||||
 | Pokemon HGSS           | NDS     |✔️ ||||
 | Pokemon Black/White    | NDS     |✔️ ||||
