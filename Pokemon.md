@@ -5,7 +5,7 @@ I've played quite a bit of Pokemon.
 
 Below is a list of the pokemon games I've played/completed:
 <br/>
-> (*This list is for my own tracking needs*)
+> _(This list is for my own tracking needs) [✔: Completed, 🕹: Not Completed Yet.]_
 
 | Game Name              | Console  | Story? | Pokedex? | DLC? | ShinyDex? |
 | :--------------------- | -------- | ------ | -------- | ---- | --------- |
