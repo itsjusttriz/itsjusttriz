@@ -3,6 +3,8 @@
 >
 > My name is Triz. I'm 22 years old and I'm an amateur Javascript/Typescript developer. I say "amateur" because im still currently learning both languages alongside wanting to get into learning Java, so that I could potentially develop my own [Minecraft](Minecraft.md) mod/plugin.
 > 
+> The main games I play is [Minecraft]() and [Pokemon](). _(Click either to see more about them.)_
+> 
 > Feel free to check out the various projects listed below, and if you have questions for me, you can find me on any of the following links:
 > - [Twitter](http://twitter.itsjusttriz.com)
 > - [Discord](http://discord.itsjusttriz.com)
