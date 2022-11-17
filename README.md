@@ -22,13 +22,11 @@
 
 # Current Projects
 
-> **Main**
->
 > - [@trizutils/api](https://github.com/itsjusttriz/trizutils-api) (_Miscellaneous API_)
-> - [@trizutils/discord](https://github.com/itsjusttriz/trizutils-discord) (_Custom Personal Discord chatbot_)
+> - [itsjusttriz/wok-discord-bot](https://github.com/itsjusttriz/wok-discord-bot) (_Custom Discord chatbot using WOKCommands_) :x: _DEPRECATED_
 > - [@trizutils/twitch](https://site.itsjusttriz.com/#/notfound) (_Custom Personal Twitch Chatbot_)
 > - [qol-central](https://www.curseforge.com/minecraft/modpacks/qol-central) (_Minecraft VanillaAddons Modpack_)
 >
-> **Side**
->
+# Contributions
+
 > - [Project Isothermal: Expert](https://github.com/Kikiisyourfriend/ProjectIsothermalExpert) - ([_Kikiisyourfriend_](https://github.com/Kikiisyourfriend))
