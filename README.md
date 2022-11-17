@@ -22,9 +22,9 @@
 
 # Current Projects
 
-> - [@trizutils/api](https://github.com/itsjusttriz/trizutils-api) (_Miscellaneous API_)
+> - [itsjusttriz/api](https://github.com/itsjusttriz/trizutils-api) (_Backend API_)
 > - [itsjusttriz/wok-discord-bot](https://github.com/itsjusttriz/wok-discord-bot) (_Custom Discord chatbot using WOKCommands_) :x: _DEPRECATED_
-> - [@trizutils/twitch](https://site.itsjusttriz.com/#/notfound) (_Custom Personal Twitch Chatbot_)
+> - [itsjusttriz/twitch-bot](https://site.itsjusttriz.com/#/notfound) (_Custom Twitch Chatbot using tmi.js & twurple.js_)
 > - [qol-central](https://www.curseforge.com/minecraft/modpacks/qol-central) (_Minecraft VanillaAddons Modpack_)
 >
 # Contributions
