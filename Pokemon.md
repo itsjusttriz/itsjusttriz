@@ -11,9 +11,10 @@ Below is a list of the pokemon games I've played/completed:
 | :--------------------- | -------- | ------ | -------- | ---- | --------- |
 | Pokemon Emerald        | mGBA _(Emulator)_ | 🕹️||||
 | Pokemon Diamond/Pearl/Platinum  | NDS|✔️||||
-| Pokemon HGSS           | NDS     |✔️ ||||
-| Pokemon Black/White    | NDS     |✔️ ||||
-| Pokemon Black/White 2  | NDS     |✔️||||
+| Pokemon Heartgold      | NDS     |✔️ ||||
+| Pokemon Black          | NDS     |✔️ ||||
+| Pokemon Black 2        | NDS     |✔️||||
 | Pokemon Let's Go Eevee!| Nintendo Switch|✔️|🕹️||🕹️|
-| Pokemon Sword/Shield   | Nintendo Switch|✔️|🕹️||🕹️|
+| Pokemon Shield         | Nintendo Switch|✔️|🕹️||🕹️|
 | Pokemon Legends: Arceus| Nintendo Switch|🕹️|🕹️||🕹️|
+| Pokemon Violet         | Nintendo Switch|✔️|🕹️||🕹️
