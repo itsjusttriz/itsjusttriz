@@ -15,3 +15,5 @@ Below is a list of the pokemon games I've played/completed:
 | Cowcraft               | 1.12.2   |         🕹️        | [Link](https://www.curseforge.com/minecraft/modpacks/cow-craft) |
 | Encrypted_             | 1.18.2   |         🕹️        | [Link](https://www.curseforge.com/minecraft/modpacks/encrypted_) |
 | FTB Stoneblock 3       | 1.18.2   |         🕹️        | [Link](https://feed-the-beast.com/modpacks/100-ftb-stoneblock-3) |
+| FTB Stoneblock 3       | 1.18.2   |         🕹️        | [Link](https://feed-the-beast.com/modpacks/100-ftb-stoneblock-3) |
+| HarvestBlock 2         | 1.16.5   |         🕹️        | [Link](https://www.curseforge.com/minecraft/modpacks/harvestblock-2) |
