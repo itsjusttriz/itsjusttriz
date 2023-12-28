@@ -18,3 +18,5 @@ Below is a list of the pokemon games I've played/completed:
 | HarvestBlock 2         | 1.16.5   |         🕹️        | [Link](https://www.curseforge.com/minecraft/modpacks/harvestblock-2) |
 | Encrypted_             | 1.18.2   |         🕹️        | [Link](https://www.curseforge.com/minecraft/modpacks/encrypted_) |
 | FTB Stoneblock 3       | 1.18.2   |         🕹️        | [Link](https://feed-the-beast.com/modpacks/100-ftb-stoneblock-3) |
+| FTB Skies              | 1.19.2   |         🕹️        | [Link]() |
+| Project Sacrifice      | 1.18.2   |         🕹️        | [Link]() |
