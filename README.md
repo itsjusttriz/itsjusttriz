@@ -22,13 +22,12 @@
 
 # Current Projects
 
-| Repository          |  View   |       Description       |                                                Link |
-| :------------------ | :-----: | :---------------------: | --------------------------------------------------: |
-| ijt-api             | private |     Public-use api      |                                                  ❌ |
-| www.itsjusttriz.com | private |       My website        |                                                  ❌ |
-| twitchbot           | public  | personal twitch chatbot |   [visit](https://github.com/itsjusttriz/twitchbot) |
-| ijtdev-docs         | public  |    docs for projects    | [visit](https://github.com/itsjusttriz/ijtdev-docs) |
-| bso7.live           | private |    bso7.live website    |                                                  ❌ |
+| Repository          |  View   |    Description    |                                                Link |
+| :------------------ | :-----: | :---------------: | --------------------------------------------------: |
+| ijt-api             | private |  Public-use api   |                                                  ❌ |
+| www.itsjusttriz.com | private |    My website     |                                                  ❌ |
+| ijtdev-docs         | public  | docs for projects | [visit](https://github.com/itsjusttriz/ijtdev-docs) |
+| bso7.live           | private | bso7.live website |                                                  ❌ |
 
 # Contributions
 
