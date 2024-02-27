@@ -16,7 +16,8 @@ Below is a list of the pokemon games I've played/completed:
 | Pokemon Heartgold              | NDS               | ✔️     |          |      |           |
 | Pokemon Black                  | NDS               | ✔️     |          |      |           |
 | Pokemon Black 2                | NDS               | ✔️     |          |      |           |
-| Pokemon Let's Go Eevee!        | Nintendo Switch   | ✔️     | 🕹️       |      | 🕹️        |
-| Pokemon Shield                 | Nintendo Switch   | ✔️     | 🕹️       |      | 🕹️        |
-| Pokemon Legends: Arceus        | Nintendo Switch   | 🕹️     | 🕹️       |      | 🕹️        |
-| Pokemon Violet                 | Nintendo Switch   | ✔️     | 🕹️       |      | 🕹️        |
+| Pokemon Y                      | 3DS _(Emulator)_  | 🕹️     |          |      |           |
+| Pokemon Let's Go Eevee!        | Nintendo Switch   | ✔️     |          |      |           |
+| Pokemon Shield                 | Nintendo Switch   | ✔️     |          |      |           |
+| Pokemon Legends: Arceus        | Nintendo Switch   | 🕹️     |          |      |           |
+| Pokemon Violet                 | Nintendo Switch   | ✔️     |          |      |           |
