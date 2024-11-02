@@ -3,7 +3,7 @@
 > **Hey There!**
 >
 > -   My name is Triz.
-> -   I'm 24 years old.
+> -   I'm 25 years old.
 > -   Freelance Javascript/Typescript developer.
 >     -   Main Area: Backend development.
 >     -   Wanting to Learn Java, in order to dive into [Minecraft](Minecraft.md) mod/plugin development.
