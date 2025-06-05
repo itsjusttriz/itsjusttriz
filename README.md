@@ -2,14 +2,14 @@
 README template "borrowed" from @MarsuvesVex/MarsuvesVex. Looks cool as hell.
 --->
 
-<h1 align="center"> Hey there👋🏻, I'm Triz 
+<h1 align="center"> Hey there👋🏻, I'm Kieran. 
 </h1>
 <br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=itsjusttriz&color=6319e5&style=for-the-badge" />
 <img alt="Discord" src="https://img.shields.io/discord/889723817302306816?style=for-the-badge&logo=discord&logoColor=48549f&color=48549f&labelColor=262626&label=&logoSize=auto">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/itsjusttriz?style=for-the-badge&logo=twitch&logoColor=6319e5&label=&color=%236319e5&cacheSeconds=3600&link=https%3A%2F%2Fwww.twitch.tv%2Fitsjusttriz&labelColor=262626&logoSize=auto">
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fitsjusttriz_&style=for-the-badge&logo=x&label=itsjusttriz_&labelColor=262626&color=262626">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/operatortriz?style=for-the-badge&logo=twitch&logoColor=6319e5&label=&color=%236319e5&cacheSeconds=3600&link=https%3A%2F%2Fwww.twitch.tv%2Foperatortriz&labelColor=262626&logoSize=auto">
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Foperatortriz&style=for-the-badge&logo=x&label=operatortriz&labelColor=262626&color=262626">
 <img alt="Static Badge" src="https://img.shields.io/badge/itsjusttriz-FF6433?style=for-the-badge&logo=kofi&logoSize=auto&label=Kofi&labelColor=262626">
 
 </p>	
