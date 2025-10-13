@@ -19,5 +19,5 @@ Below is a list of the pokemon games I've played/completed:
 | Pokemon Y                      | 3DS _(Emulator)_  | ✔️     |          |      |           |
 | Pokemon Let's Go Eevee!        | Nintendo Switch   | ✔️     |          |      |           |
 | Pokemon Shield                 | Nintendo Switch   | ✔️     |          |      |           |
-| Pokemon Legends: Arceus        | Nintendo Switch   | 🕹️     |          |      |           |
+| Pokemon Legends: Arceus        | Nintendo Switch   | ✔️     |          |      |           |
 | Pokemon Violet                 | Nintendo Switch   | ✔️     |          |      |           |
