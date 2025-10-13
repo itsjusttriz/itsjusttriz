@@ -21,3 +21,4 @@ Below is a list of the pokemon games I've played/completed:
 | Pokemon Shield                 | Nintendo Switch   | ✔️     |          |      |           |
 | Pokemon Legends: Arceus        | Nintendo Switch   | ✔️     |          |      |           |
 | Pokemon Violet                 | Nintendo Switch   | ✔️     |          |      |           |
+| Pokemon Legends: ZA            | Nintendo Switch   | 🕹️     |          |      |           |
